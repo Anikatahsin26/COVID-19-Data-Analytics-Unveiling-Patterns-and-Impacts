@@ -30,7 +30,7 @@ Explore Data with SQL: Navigate to the SQL folder and run SQL scripts for data e
 Refer to the documentation for SQL queries used.
 
 Visualize with Tableau: Open Tableau Desktop. Connect to the prepared dataset or run SQL queries directly in Tableau.
-Open the Tableau project file: COVID19_Analytics.twb.
+Open the Tableau project file: (https://github.com/Anikatahsin26/COVID-19-Data-Analytics-Unveiling-Patterns-and-Impacts/blob/main/Dashboard%201.png)
 Explore dynamic visualizations and dashboards.
 
 ## Contribute
